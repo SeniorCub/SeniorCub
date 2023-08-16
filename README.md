@@ -206,8 +206,8 @@ Connect with me
      </summary>
      ----
      <p align="center">
-          <img src="https://wakatime.com/share/@SeniorCub/8570fd9b-658f-47d5-aacd-4aca81abec0c.svg" alt="SeniorCub" height="300px">
-          <img src="https://wakatime.com/share/@SeniorCub/e7951e1e-640b-44c1-9cfd-1fa5a000f23a.svg" alt="SeniorCub" height="300px">
+          <img src="https://wakatime.com/share/@SeniorCub/32bd66ef-0340-4f27-ab61-3757e5abc8c6.svg" alt="SeniorCub" height="300px">
+          <img src="https://wakatime.com/share/@SeniorCub/92f4c458-be30-446d-bdc6-2f1717f9964e.svg" alt="SeniorCub" height="300px">
      </p>
 </details>
 
@@ -218,6 +218,6 @@ Connect with me
      ----
      <p align="center">
           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pydeep9026&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="SeniorCub" height="230px"/>
-          <img src="https://wakatime.com/share/@SeniorCub/56e70146-fa72-41dd-8e1f-48626f2c0526.svg" alt="SeniorCub" height="230px"/>
+          <img src="https://wakatime.com/share/@SeniorCub/9e0f92b3-9fe5-4362-81c9-7f995c42b1a2.svg" alt="SeniorCub" height="230px"/>
      </p>
 </details>
