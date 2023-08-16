@@ -178,7 +178,7 @@ Connect with me
      <summary>
           <h3> 🔥 GitHub Streak Stats</h3>
      </summary>
-
+     ----
      <p align="center">
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeniorCub&theme=tokyonight_duo" alt="SeniorCub" />
      </p>
@@ -191,7 +191,7 @@ Connect with me
      <summary>
           <h3> 💻 GitHub Profile Stats</h3>
      </summary>
-
+     ----
      <p align="center">
           <img alt="SeniorCub's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SeniorCub&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
           <br>
@@ -204,7 +204,7 @@ Connect with me
      <summary>
           <h3>⚡ WakaTime Coding Activity</h3>
      </summary>
-
+     ----
      <p align="center">
           <img src="https://wakatime.com/share/@SeniorCub/8570fd9b-658f-47d5-aacd-4aca81abec0c.svg" alt="SeniorCub" height="300px">
           <img src="https://wakatime.com/share/@SeniorCub/e7951e1e-640b-44c1-9cfd-1fa5a000f23a.svg" alt="SeniorCub" height="300px">
@@ -215,7 +215,7 @@ Connect with me
      <summary>
           <h3>⚡ Most Used Languages</h3>
      </summary>
-
+     ----
      <p align="center">
           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pydeep9026&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="SeniorCub" height="230px"/>
           <img src="https://wakatime.com/share/@SeniorCub/56e70146-fa72-41dd-8e1f-48626f2c0526.svg" alt="SeniorCub" height="230px"/>
