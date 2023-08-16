@@ -165,18 +165,18 @@ Connect with me
 <br>
 
 <p align = "center">
-     <a href="https://github.com/piyushsuthar/github-readme-quotes">
-          <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+     <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
 
 <picture>
      <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>
-</picture> <h1>GitHub Stats</h1>
+     My Stats
+</picture>
 
 <details>
      <summary>
-          <h3> 🔥 Streak Stats</h3>
+          <h3> 🔥 GitHub Streak Stats</h3>
      </summary>
 
      <p align="center">
