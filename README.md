@@ -9,7 +9,8 @@
 </h2>  
     
 <p align="center"> 
-     <img src="https://komarev.com/ghpvc/?username=SeniorCub&label=Profile%20views&color=0047AB&style=plastic?" alt="SeniorCub" height=25px, width=160px/> 
+     <img src="https://komarev.com/ghpvc/?username=SeniorCub&label=Profile%20views&color=0047AB&style=plastic?" alt="SeniorCub" height=25px, width=160px/>
+      &emsp; 
      <img src="https://img.shields.io/github/followers/SeniorCub.svg?style=social&label=Follow&maxAge=2592000" alt="SeniorCub" height=25px, width=160px/> 
 </p>
 
@@ -171,8 +172,7 @@ Connect with me
 
 <picture>
      <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>
-     My Stats
-</picture>
+</picture> My Coding Stats
 
 <details>
      <summary>
