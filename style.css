@@ -1,0 +1,44 @@
+* {
+     padding: 0;
+     margin: 0;
+     box-sizing: border-box;
+     text-decoration: none;
+}
+.navbar-brand {
+     font-weight: 900;
+}
+.active {
+     font-weight: 700;
+}
+.nav-item a {
+     color: red;
+}
+.nav-item a:hover {
+     box-shadow: 5px 5px 10px black;
+     color: white;
+}
+.hero {
+     height: 60vh;
+     text-align: center;
+     place-items: center;
+     background-image: url(img/Dev\ PC\ Wall.png);
+}
+.about {
+     text-align: justify;
+     font-size: 20px; 
+     letter-spacing: 3px; 
+     word-spacing: 10px;
+}
+.about a {
+     text-decoration: none;
+     color: black;
+}
+.about span {
+     font-weight: 900;
+     color: red;
+}
+.col-lg-4  img {
+     border-radius: 80%;
+     width: 300px;
+     height: 250px;
+}
