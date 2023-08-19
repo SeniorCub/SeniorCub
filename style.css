@@ -42,3 +42,12 @@
      width: 300px;
      height: 250px;
 }
+picture {
+     font-weight: 800;
+}
+picture img {
+     width: 70px;
+}
+.py-5 a img {
+     height: 25px;
+}
