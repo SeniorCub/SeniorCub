@@ -1,7 +1,7 @@
 <h1 align="center" >Hi , I'm Farinde Reuben
      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
      <br>
-     <img src="Copy of Dev PC Wall2.png" alt="" height="25%" width="50%">
+     <img src="img/Copy of Dev PC Wall2.png" alt="" height="25%" width="50%">
 </h1> 
 
 <h2 align="center">
@@ -21,8 +21,12 @@
      About me
 </h1>
 
-<picture><img align="right" src="Untitled.png" width="300px" height="250px" style="margin-left: 50px; border-radius: 80%;"></picture>
-<p style="text-align: center; padding: 0 50px; font-size: 20px; letter-spacing: 3px; word-spacing: 10px;">I am currently studying Computer Science at <a href="https://lautech.edu.ng/">Ladoke Akintola Univerity of Technology</a>, Ogbomosho, Oyo State, Nigeria. I have completed my Secondary from LivingStone College of Arts and Science, Akobo, Ibadan, Oyo State, Nigeria. I am currently learning Full Stark Web Development at <a href="http://buggybillions.com/">BuggyBillions</a>. </p>
+<picture>
+     <img align="right" src="img/Untitled.png" width="300px" height="250px" style="margin-left: 50px; border-radius: 80%;">
+</picture>
+<p style="text-align: center; padding: 0 50px; font-size: 20px; letter-spacing: 3px; word-spacing: 10px;">
+     I am currently studying Computer Science at <a href="https://lautech.edu.ng/">Ladoke Akintola Univerity of Technology</a>, Ogbomosho, Oyo State, Nigeria. I have completed my Secondary from LivingStone College of Arts and Science, Akobo, Ibadan, Oyo State, Nigeria. I am currently learning Full Stark Web Development at <a href="http://buggybillions.com/">BuggyBillions</a>.
+</p>
 
 <br>
 <br>
@@ -34,17 +38,43 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px">
 Connect with me
 </h1>
-
 <p align="center">
-     <a href="mailto:blinkgraphics05@gamil.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-     <a href="mailto:farinderif@gamil.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-     <a href="https://github.com/SeniorCub"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-     <a href="https://www.linkedin.com/in/FarindeReuben/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-     <a href="https://wa.me/message/QLAYAWAWA4AHE1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/></a>
-     <a href="Facebook link"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-     <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instargram"/></a>
-     <a href="Sololearn link"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" alt="Sololearn"/></a>
-     <a href="https://twitter.com/Dev_SeniorCub?t=Tmf78ULVrMJLlIZero3JcgA&s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twiter"/></a>
+      <!-- Gmail blinkgraphics05 -->
+     <a href="mailto:blinkgraphics05@gamil.com">
+          <img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
+     </a>
+     <!-- Gmail farinderif -->
+     <a href="mailto:farinderif@gamil.com">
+          <img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
+     </a>
+     <!-- GitHub -->
+     <a href="https://github.com/SeniorCub">
+          <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
+     </a>
+     <!-- LinkedIn -->
+     <a href="https://www.linkedin.com/in/FarindeReuben/">
+          <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+     </a>
+     <!-- Whatsapp -->
+     <a href="https://wa.me/message/QLAYAWAWA4AHE1">
+          <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/>
+     </a>
+     <!-- Facebook -->
+     <a href="https://www.facebook.com/BlinkGraphics05">
+          <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+     </a>
+     <!-- Instagram -->
+     <a href="https://instagram.com/senior_cub">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instargram"/>
+     </a>
+     <!-- SoloLearn -->
+     <a href="https://www.sololearn.com/Profile/27836775/?ref=app">
+          <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" alt="Sololearn"/>
+     </a>
+     <!-- Twitter -->
+     <a href="https://twitter.com/Dev_SeniorCub?t=Tmf78ULVrMJLlIZero3JcgA&s=09">
+          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twiter"/>
+     </a>
 </p>
 
 
@@ -52,7 +82,6 @@ Connect with me
 <h1 align="center">
 💻My OS
 </h1>
-
 <p align="center">
      <img img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
      <img img src="	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
@@ -60,10 +89,12 @@ Connect with me
 
 
 
-
+<h1 align="center">
 🛠️ My Skills
+<h1>
 <br>
 <br>
+
 <!-- Front End -->
 <picture>
      <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>
@@ -100,11 +131,10 @@ Connect with me
 </a>
 </p> -->
 
-
+<!-- Programiming Languages -->
 <picture>
      <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>
 </picture> Programming languages
-
 <p align="center"> 
      &emsp; 
      <a href="https://www.w3.org/html/" target="_blank"> 
@@ -124,40 +154,38 @@ Connect with me
      </a>
 </p>
 
+<!-- Softwares & Tools -->
 <picture>
      <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>
 </picture> Software & Tools
-
 <p align="center">
      &emsp;
      <a href="#">
           <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white">
      </a>
      &emsp;
-          <a href="#">
-               <img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white">
-          </a>
-
-
+     <a href="#">
+          <img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white">
+     </a>
 </p>
 
+<!-- IDE -->
 <picture>
      <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>
 </picture> IDE
-
 <p align="center">
      &emsp;
           <a href="#">
-               <img alt="GitHub" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
+               <img alt="NotePad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
           </a>
      </a>
      &emsp;
           <a href="#">
-               <img alt="GitHub" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+               <img alt="VsCode" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
           </a>
      &emsp;
           <a href="#">
-               <img alt="GitHub" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+               <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
           </a>
 </p>
 
@@ -168,17 +196,19 @@ Connect with me
 <p align = "center">
      <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
+<br>
+<br>
+<br>
 
-
-<picture>
+<h1>
      <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>
-</picture> My Coding Stats
-
+      My Coding Stats
+</h1>
+<br>
 <details>
      <summary>
           <h3> 🔥 GitHub Streak Stats</h3>
      </summary>
-     ----
      <p align="center">
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeniorCub&theme=tokyonight_duo" alt="SeniorCub" />
      </p>
@@ -191,7 +221,6 @@ Connect with me
      <summary>
           <h3> 💻 GitHub Profile Stats</h3>
      </summary>
-     ----
      <p align="center">
           <img alt="SeniorCub's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SeniorCub&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
           <br>
@@ -204,7 +233,6 @@ Connect with me
      <summary>
           <h3>⚡ WakaTime Coding Activity</h3>
      </summary>
-     ----
      <p align="center">
           <img src="https://wakatime.com/share/@SeniorCub/32bd66ef-0340-4f27-ab61-3757e5abc8c6.svg" alt="SeniorCub" height="300px">
           <img src="https://wakatime.com/share/@SeniorCub/92f4c458-be30-446d-bdc6-2f1717f9964e.svg" alt="SeniorCub" height="300px">
@@ -215,7 +243,6 @@ Connect with me
      <summary>
           <h3>⚡ Most Used Languages</h3>
      </summary>
-     ----
      <p align="center">
           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pydeep9026&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="SeniorCub" height="230px"/>
           <img src="https://wakatime.com/share/@SeniorCub/9e0f92b3-9fe5-4362-81c9-7f995c42b1a2.svg" alt="SeniorCub" height="230px"/>
