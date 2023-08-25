@@ -223,12 +223,8 @@ Connect with me
      </summary>
      <p align="center">
           <img alt="SeniorCub's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SeniorCub&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
-          <br>
-          <b>Note:</b> 
-          Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
      </p>
 </details>
-
 <details>
      <summary>
           <h3>⚡ WakaTime Coding Activity</h3>
@@ -238,7 +234,6 @@ Connect with me
           <img src="https://wakatime.com/share/@SeniorCub/92f4c458-be30-446d-bdc6-2f1717f9964e.svg" alt="SeniorCub" height="300px">
      </p>
 </details>
-
 <details>
      <summary>
           <h3>⚡ Most Used Languages</h3>
@@ -246,5 +241,8 @@ Connect with me
      <p align="center">
           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pydeep9026&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="SeniorCub" height="230px"/>
           <img src="https://wakatime.com/share/@SeniorCub/9e0f92b3-9fe5-4362-81c9-7f995c42b1a2.svg" alt="SeniorCub" height="230px"/>
+          <br>
+          <b>Note:</b> 
+          Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
      </p>
 </details>
