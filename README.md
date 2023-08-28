@@ -246,3 +246,8 @@ Connect with me
           Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
      </p>
 </details>
+
+
+
+# My Awesome Achievements
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark Badge" width="70">
