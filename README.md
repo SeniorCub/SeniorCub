@@ -239,24 +239,6 @@ My Stats 🔥
 <br>
 <br>
 
-<details>
-     <summary>
-          <h3>⚡ My Awesome Achievements</h3>
-     </summary>
-     ---
-     <div class="d-flex gap-5 text-center">
-          <div class="">
-               <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark Badge" width="70">
-               <h5>GitHub Pull Shark Badge</h5>
-          </div>
-     ---
-          <div class="">
-               <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="Yolo Badge" width="70">
-               <h5>GitHub Yolo Badge</h5>
-          </div>
-     </div>
-</details>
-
 
 <details>
      <summary>
@@ -268,6 +250,9 @@ My Stats 🔥
           <img src="https://wakatime.com/share/@SeniorCub/92f4c458-be30-446d-bdc6-2f1717f9964e.svg" alt="SeniorCub" height="300px">
      </p>
 </details>
+
+<br>
+<br>
 
 <details>
      <summary>
