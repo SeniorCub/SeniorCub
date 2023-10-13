@@ -5,7 +5,7 @@
 </h1> 
 
 <h2 align="center">
-     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Competitive+Programmer;Always+learning+new+things">
+     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23ff0000&size=90&center=true&vCenter=true&width=1200&height=100&lines=Computer+Science+Student;Front+End+Developer;Graphics+Designer;Competitive+Programmer;Always+learning+new+things">
 </h2>  
     
 <p align="center"> 
@@ -205,13 +205,35 @@ Connect with me
       My Coding Stats
 </h1>
 <br>
+<div class="h1">
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>
+My Stats 🔥
+</div>
+
+<div class="">
 <details>
      <summary>
-          <h3> 🔥 GitHub Streak Stats</h3>
+          <h3>🚀 GitHub Stats</h3>
      </summary>
-     <p align="center">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeniorCub&theme=tokyonight_duo" alt="SeniorCub" />
-     </p>
+     ---
+     <div class="d-flex flex-column gap-5 text-center">
+          <div class="d-flex gap-5"> 
+               <img src="https://komarev.com/ghpvc/?username=SeniorCub&label=Profile%20views&color=0047AB&style=plastic?" alt="SeniorCub" height=25px, width=160px/> 
+               <img src="https://img.shields.io/github/followers/SeniorCub.svg?style=social&label=Follow&maxAge=2592000" alt="SeniorCub" height=25px, width=160px/> 
+          </div>
+          ---
+          <div class="">
+               <img alt="SeniorCub's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SeniorCub&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+               <br>
+               <b>Note:</b> 
+               Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+          </div>
+          ---
+          <div class="text-center">
+               <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeniorCub&theme=tokyonight_duo" alt="SeniorCub" />
+               <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adebowale-Morakinyo&theme=tokyonight_duo" alt="IfeMorak" /> -->
+          </div>
+     </div>
 </details>
 
 <br>
@@ -219,31 +241,42 @@ Connect with me
 
 <details>
      <summary>
-          <h3> 💻 GitHub Profile Stats</h3>
+          <h3>⚡ My Awesome Achievements</h3>
      </summary>
-     <p align="center">
-          <img alt="SeniorCub's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SeniorCub&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
-     </p>
+     ---
+     <div class="d-flex gap-5 text-center">
+          <div class="">
+               <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark Badge" width="70">
+               <h5>GitHub Pull Shark Badge</h5>
+          </div>
+     ---
+          <div class="">
+               <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="Yolo Badge" width="70">
+               <h5>GitHub Yolo Badge</h5>
+          </div>
+     </div>
 </details>
+
+
 <details>
      <summary>
-          <h3>⚡ WakaTime Coding Activity</h3>
+          <h3>🎯 WakaTime Coding Activity</h3>
      </summary>
+     ---
      <p align="center">
           <img src="https://wakatime.com/share/@SeniorCub/32bd66ef-0340-4f27-ab61-3757e5abc8c6.svg" alt="SeniorCub" height="300px">
           <img src="https://wakatime.com/share/@SeniorCub/92f4c458-be30-446d-bdc6-2f1717f9964e.svg" alt="SeniorCub" height="300px">
      </p>
 </details>
+
 <details>
      <summary>
-          <h3>⚡ Most Used Languages</h3>
+          <h3>✍️ Most Used Languages</h3>
      </summary>
+     ---
      <p align="center">
           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pydeep9026&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="SeniorCub" height="230px"/>
           <img src="https://wakatime.com/share/@SeniorCub/9e0f92b3-9fe5-4362-81c9-7f995c42b1a2.svg" alt="SeniorCub" height="230px"/>
-          <br>
-          <b>Note:</b> 
-          Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
      </p>
 </details>
 
@@ -251,4 +284,4 @@ Connect with me
 
 # My Awesome Achievements
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark Badge" width="70">
-<img alt="Pull Shark Achievements" src="https://img.shields.io/badge/Pull%20Shark%20Achievements-YOLO-brightgreen">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="Yolo Badge" width="70">

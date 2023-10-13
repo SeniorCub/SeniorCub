@@ -4,6 +4,9 @@
      box-sizing: border-box;
      text-decoration: none;
 }
+details{
+     padding: 0 50px;
+}
 .navbar-brand {
      font-weight: 900;
 }
