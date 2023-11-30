@@ -84,7 +84,7 @@ Connect with me
 </h1>
 <p align="center">
      <img img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-     <img img src="	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+     <img img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 </p>
 
 
@@ -115,21 +115,21 @@ Connect with me
 </p>
 
 <!-- Back End -->
-<!-- <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Backend Development
+<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Backend Development
 <p align="center"> 
 &emsp; 
 <a href="https://nodejs.org/" target="_blank"> 
-     <img alt="Node.js" src="https://img.shields.io/badge/node%20-%23E34F26.svg?style=plastic&logo=node.js&logoColor=white">
+     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </a>   
-&emsp;
+<!-- &emsp;
 <a href="https://expressjs.com/" target="_blank">
      <img alt="Express.js" src="https://img.shields.io/badge/express-%23404d59.svg?style=plastic&logo=express&logoColor=white">
 </a> 
 &emsp;
 <a href="https://www.mongodb.com/" target="_blank">
      <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white">
-</a>
-</p> -->
+</a> -->
+</p>
 
 <!-- Programiming Languages -->
 <picture>
@@ -150,7 +150,11 @@ Connect with me
      </a>
      &emsp;
      <a href="https://www.python.org" target="_blank">
-          <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+          <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=yellow">
+     </a>
+     &emsp;
+     <a href="https://www.w3schools.com/c/" target="_blank">
+          <img alt="Python" src="https://img.shields.io/badge/C%20Language%20-%2312854C.svg?style=plastic&logo=C&logoColor=black">
      </a>
 </p>
 
