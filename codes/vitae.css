@@ -12,6 +12,7 @@ section{
      margin: 10px;
      box-shadow: 7px 7px 5px #33333363;
      border: 1px solid #f0f0f0;
+     height: max-content;
 }
 .right{
      width: 100%;
@@ -46,6 +47,13 @@ section{
      text-align: left;
      border-bottom: 1px solid #c0c0c07c;
 }
+.last{
+     border-bottom: none;
+}
+.title{
+     font-weight: 700;
+     font-size: 20px;
+}
 .ski{
      font-size: 30px;
      font-weight: 600;
@@ -65,11 +73,26 @@ section{
      height: 20px;
      background-color: #4caf50;
  }
- .one .percentage-bar {
+ .html .percentage-bar {
      width: 90%;
  }
- .two .percentage-bar {
+ .css .percentage-bar {
      width: 85%;
+ }
+ .bootstrap .percentage-bar {
+     width: 80%;
+ }
+ .javascript .percentage-bar {
+     width: 80%;
+ }
+ .english .percentage-bar {
+     width: 90%;
+ }
+ .yoruba .percentage-bar {
+     width: 85%;
+ }
+ .spanish .percentage-bar {
+     width: 5%;
  }
  .percentage-text {
      position: absolute;
