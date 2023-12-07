@@ -274,3 +274,4 @@ My Stats 🔥
 # My Awesome Achievements
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark Badge" width="70">
 <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="Yolo Badge" width="70">
+<!-- Im about to loose mystreaks i dont ebven know what i am doing -->
