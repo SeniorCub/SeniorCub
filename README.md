@@ -5,9 +5,9 @@
 </h1> 
 
 <h2 align="center">
-     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23ff0000&size=90&center=true&vCenter=true&width=1200&height=100&lines=Computer+Science+Student;Front+End+Developer;Graphics+Designer;Competitive+Programmer;Always+learning+new+things">
+     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23ff0000&size=60&center=true&vCenter=true&width=1200&height=100&lines=Computer+Science+Student;Front+End+Developer;Graphics+Designer;Competitive+Programmer;Always+learning+new+things">
 </h2>  
-    
+     
 <p align="center"> 
      <img src="https://komarev.com/ghpvc/?username=SeniorCub&label=Profile%20views&color=0047AB&style=plastic?" alt="SeniorCub" height=25px, width=160px/>
       &emsp; 
@@ -22,7 +22,7 @@
 </h1>
 
 <picture>
-     <img align="right" src="img/Untitled.png" width="300px" height="250px" style="margin-left: 50px; border-radius: 80%;">
+     <img align="right" src="img/Untitled.png" width="200px" height="150px" style="margin-left: 50px; border-radius: 80%;">
 </picture>
 <p style="text-align: center; padding: 0 50px; font-size: 20px; letter-spacing: 3px; word-spacing: 10px;">
      I am currently studying Computer Science at <a href="https://lautech.edu.ng/">Ladoke Akintola Univerity of Technology</a>, Ogbomosho, Oyo State, Nigeria. I have completed my Secondary from LivingStone College of Arts and Science, Akobo, Ibadan, Oyo State, Nigeria. I am currently learning Full Stark Web Development at <a href="http://buggybillions.com/">BuggyBillions</a>.
@@ -276,3 +276,4 @@ My Stats 🔥
 <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="Yolo Badge" width="70">
 <!-- Im about to loose mystreaks i dont ebven know what i am doing -->
 <!-- Im about to loose mystreaks i dont ebven know what i am doing -->
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SeniorCub&theme=onedark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a> -->
