@@ -274,6 +274,10 @@ My Stats 🔥
 # My Awesome Achievements
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark Badge" width="70">
 <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="Yolo Badge" width="70">
-<!-- Im about to loose mystreaks i dont ebven know what i am doing -->
-<!-- Im about to loose mystreaks i dont ebven know what i am doing -->
+<!-- Im about to loose mystreaks i dont even know what i am doing -->
+<!-- Im about to loose mystreaks i dont even know what i am doing -->
+<!-- Im about to loose mystreaks i dont even know what i am doing -->
+<!-- Im about to loose mystreaks i dont even know what i am doing -->
+<!-- Im about to loose mystreaks i dont even know what i am doing -->
+<!-- Im about to loose mystreaks i dont even know what i am doing -->
 <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SeniorCub&theme=onedark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a> -->
