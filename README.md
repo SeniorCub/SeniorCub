@@ -121,14 +121,14 @@ Connect with me
 <a href="https://nodejs.org/" target="_blank"> 
      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </a>   
-<!-- &emsp;
+&emsp;
 <a href="https://expressjs.com/" target="_blank">
      <img alt="Express.js" src="https://img.shields.io/badge/express-%23404d59.svg?style=plastic&logo=express&logoColor=white">
 </a> 
 &emsp;
 <a href="https://www.mongodb.com/" target="_blank">
      <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white">
-</a> -->
+</a>
 </p>
 
 <!-- Programiming Languages -->
@@ -236,6 +236,10 @@ My Stats 🔥
           <div class="text-center">
                <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeniorCub&theme=tokyonight_duo" alt="SeniorCub" />
                <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adebowale-Morakinyo&theme=tokyonight_duo" alt="IfeMorak" /> -->
+          </div>
+          ---
+          <div class="text-center">
+              <a href="https://gitroll.io/profile/uQGRLTzbAsMM08gSGT8WUCYPNIxv1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uQGRLTzbAsMM08gSGT8WUCYPNIxv1" alt="GitRoll Profile Badge"/></a>
           </div>
      </div>
 </details>
