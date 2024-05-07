@@ -268,7 +268,7 @@ My Stats 🔥
      </summary>
      ---
      <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pydeep9026&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="SeniorCub" height="230px"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SeniorCub&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="SeniorCub" height="230px"/>
           <img src="https://wakatime.com/share/@SeniorCub/9e0f92b3-9fe5-4362-81c9-7f995c42b1a2.svg" alt="SeniorCub" height="230px"/>
      </p>
 </details>
