@@ -279,6 +279,14 @@ My Stats 🔥
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark Badge" width="70">
 <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="Yolo Badge" width="70">
 
+# My Markdown Document
+
+Here is an example of an embedded iframe:
+
+<iframe src="https://seniorcub.netlify.app" width="600" height="400" style="border: none;"></iframe>
+
+This is some additional text below the iframe.
+
 
 <!-- Im about to loose my streaks i dont even know what i am doing -->
 <!-- Im about to loose my streaks i dont even know what i am doing -->
