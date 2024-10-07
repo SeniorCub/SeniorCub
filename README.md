@@ -283,9 +283,7 @@ My Stats 🔥
 
 Here is an example of an embedded iframe:
 
-<iframe src="https://seniorcub.netlify.app" width="600" height="400" style="border: none;"></iframe>
-
-This is some additional text below the iframe.
+<iframe src="https://my-portfolio-alpha-smoky-49.vercel.app/" frameborder="0" scrolling="no" sandbox="allow-scripts allow-same-origin" width="900" height="400" style="width: 100%; height: 100%; border: none;"></iframe>
 
 
 <!-- Im about to loose my streaks i dont even know what i am doing -->
