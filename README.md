@@ -112,6 +112,26 @@ Connect with me
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
           <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
      </a>
+     &emsp;
+     <a href="https://getbootstrap.com/" target="_blank">
+          <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white">
+     </a>
+     &emsp;
+     <a href="https://tailwindcss.com/" target="_blank">
+          <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white">
+     </a>
+     &emsp;
+     <a href="https://reactjs.org/" target="_blank">
+          <img alt="React" src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB">
+     </a>
+     &emsp;
+     <a href="https://www.w3schools.com/js/js_es6.asp" target="_blank">
+          <img alt="ES6" src="https://img.shields.io/badge/ES6%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+     </a>
+     &emsp;
+     <a href="https://angular.io/" target="_blank">
+          <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white">
+     </a>
 </p>
 
 <!-- Back End -->
@@ -129,6 +149,14 @@ Connect with me
 <a href="https://www.mongodb.com/" target="_blank">
      <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white">
 </a>
+&emsp;
+<a href="https://www.php.net/" target="_blank">
+     <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
+</a>
+&emsp;
+<a href="https://www.mysql.com/" target="_blank">
+     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white">
+</a>
 </p>
 
 <!-- Programiming Languages -->
@@ -136,14 +164,6 @@ Connect with me
      <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>
 </picture> Programming languages
 <p align="center"> 
-     &emsp; 
-     <a href="https://www.w3.org/html/" target="_blank"> 
-          <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-     </a>   
-     &emsp;
-     <a href="https://www.w3schools.com/css/" target="_blank">
-          <img alt="CSS" src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-     </a>
      &emsp;
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
           <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
@@ -156,6 +176,14 @@ Connect with me
      <a href="https://www.w3schools.com/c/" target="_blank">
           <img alt="Python" src="https://img.shields.io/badge/C%20Language%20-%2312854C.svg?style=plastic&logo=C&logoColor=black">
      </a>
+     &emsp;
+     <a href="https://www.w3schools.com/java/" target="_blank">
+          <img alt="Java" src="https://img.shields.io/badge/Java%20-%23ED8B00.svg?style=plastic&logo=java&logoColor=white">
+     </a>
+     &emsp;
+     <a href="https://www.php.net/" target="_blank">
+          <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
+     </a>
 </p>
 
 <!-- Softwares & Tools -->
@@ -164,12 +192,28 @@ Connect with me
 </picture> Software & Tools
 <p align="center">
      &emsp;
-     <a href="#">
+     <a>
           <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white">
      </a>
      &emsp;
-     <a href="#">
+     <a>
           <img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white">
+     </a>
+     &emsp;
+     <a>
+          <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white">
+     </a>
+     &emsp;
+     <a>
+          <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white">
+     </a>
+     &emsp;
+     <a>
+          <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white">
+     </a>
+     &emsp;
+     <a>
+          <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white">
      </a>
 </p>
 
@@ -179,17 +223,21 @@ Connect with me
 </picture> IDE
 <p align="center">
      &emsp;
-          <a href="#">
+          <a>
                <img alt="NotePad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
           </a>
      </a>
      &emsp;
-          <a href="#">
+          <a>
                <img alt="VsCode" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
           </a>
      &emsp;
-          <a href="#">
+          <a>
                <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+          </a>
+     &emsp;
+          <a>
+               <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=white">
           </a>
 </p>
 
@@ -278,15 +326,11 @@ My Stats 🔥
 # My Awesome Achievements
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark Badge" width="70">
 <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="Yolo Badge" width="70">
+<!-- quickdraw -->
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quick Draw Badge" width="70">
 
-# My Markdown Document
-
-Here is an example of an embedded iframe:
-
-<iframe src="https://my-portfolio-alpha-smoky-49.vercel.app/" frameborder="0" scrolling="no" sandbox="allow-scripts allow-same-origin" width="900" height="400" style="width: 100%; height: 100%; border: none;"></iframe>
+###### [Dev SeniorCub](https://my-portfolio-alpha-smoky-49.vercel.app/)
 
 
-<!-- Im about to loose my streaks i dont even know what i am doing -->
-<!-- Im about to loose my streaks i dont even know what i am doing -->
-<!-- Im about to loose my streaks i dont even know what i am doing -->
+
 <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SeniorCub&theme=onedark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a> -->
